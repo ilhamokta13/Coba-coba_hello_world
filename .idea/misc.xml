@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/KULIAH/Cobacoba/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/KULIAH/Cobacoba/app/src/main/res/drawable/ic_calendar.xml" value="0.1" />
         <entry key="..\:/KULIAH/Cobacoba/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
-        <entry key="..\:/KULIAH/Cobacoba/app/src/main/res/layout/activity_main.xml" value="0.14719202898550723" />
+        <entry key="..\:/KULIAH/Cobacoba/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/KULIAH/Cobacoba/app/src/main/res/layout/layout_latihan.xml" value="0.22" />
+        <entry key="..\:/KULIAH/Cobacoba/app/src/main/res/layout/layout_latihan_new.xml" value="0.1" />
       </map>
     </option>
   </component>
